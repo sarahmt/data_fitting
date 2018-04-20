@@ -1,4 +1,5 @@
 f = 'Data/fitting_dat.txt';
+% f = 'Data/cfix_782pF_fitting_data.txt';
 data = load(f);
 cpdat = data(:,1);
 vsdat = data(:,2);
