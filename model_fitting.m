@@ -10,7 +10,7 @@ vsdat = data(:,2);
 % vs = VR * (1 - CF / (CF + CS + cp));
 
 
-% define parameters %
+define parameters %
 % x(1) = CF;
 % x(2) = CS; 
 % x(3) = VR;
